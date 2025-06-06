@@ -1,0 +1,10 @@
+C:\Varaxin_pr21\zd_23\zd_23\bin\Debug\zd_23.exe.config
+C:\Varaxin_pr21\zd_23\zd_23\bin\Debug\zd_23.exe
+C:\Varaxin_pr21\zd_23\zd_23\bin\Debug\zd_23.pdb
+C:\Varaxin_pr21\zd_23\zd_23\obj\Debug\zd_23.csproj.AssemblyReference.cache
+C:\Varaxin_pr21\zd_23\zd_23\obj\Debug\zd_23.Form1.resources
+C:\Varaxin_pr21\zd_23\zd_23\obj\Debug\zd_23.Properties.Resources.resources
+C:\Varaxin_pr21\zd_23\zd_23\obj\Debug\zd_23.csproj.GenerateResource.cache
+C:\Varaxin_pr21\zd_23\zd_23\obj\Debug\zd_23.csproj.CoreCompileInputs.cache
+C:\Varaxin_pr21\zd_23\zd_23\obj\Debug\zd_23.exe
+C:\Varaxin_pr21\zd_23\zd_23\obj\Debug\zd_23.pdb
